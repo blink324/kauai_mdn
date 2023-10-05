@@ -1,0 +1,9 @@
+div {
+  transition: rotate 1s;
+  rotate: 1 1 1 20deg;
+}
+
+/* div:hover {
+  rotate: 1 1 1 20deg;
+} */
+
